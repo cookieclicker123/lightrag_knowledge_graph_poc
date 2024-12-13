@@ -82,3 +82,7 @@ python app.py
  - Hybrid certainly the best approach, for highly accurate responses with maximum knowledge base coverage.
 
 This web app really helps us shed light on why basic semantic search simply is not tenable when trying to get the most out of your data, let alone fields in which accuracy and quality of responses is vital, and in which semnatic search would not cut it but as you will see lightrag based knowledge graph data certainly is.
+
+I Advise you test the same query with gpt-4o as arbiter so you can see an in depth x/10 rating on each 
+retreival method. This will really elucidate the effectiveness and neccesity of graph rag in 
+the growing use case demands in AI.
