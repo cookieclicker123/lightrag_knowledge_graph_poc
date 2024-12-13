@@ -16,3 +16,4 @@ gui/
 *.log
 data/
 outputs/
+.DS_Store
