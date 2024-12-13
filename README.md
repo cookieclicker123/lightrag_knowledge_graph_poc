@@ -1,10 +1,10 @@
-# LightRAG Knowledge Graph for Tanooki TV Post Proudction use case:
+# LightRAG Knowledge Graph for Post Proudction use case:
 
 ![LightRAG](./images/light_rag.jpg)
 
 ## What is the purpose of this repository:
 
-The purpose of this repository is to provide a structured implementation of the LightRAG framework for processing and querying large documents, such as the Post Production Handbook. It leverages a local language model to extract, index, and retrieve information efficiently using a knowledge graph approach. This setup is designed to facilitate complex queries and provide insightful responses, making it a valuable tool for professionals in the post-production industry who want domain expertise at their fingertips or an index they can query of their production. The repository is organized to separate custom code from the original LightRAG framework, ensuring clarity and ease of maintenance.
+The purpose of this repository is to provide a structured implementation of the LightRAG framework for processing and querying large documents, such as the Post Production Handbook. It leverages a local language model to extract, index, and retrieve information efficiently using a knowledge graph approach. This setup is designed to facilitate complex queries and provide insightful responses, making it a valuable tool for professionals in the post-production industry.The repository is organized to separate custom code from the original LightRAG framework, ensuring clarity and ease of maintenance.
 
 ## How lightRAG works:
 
@@ -14,7 +14,7 @@ The purpose of this repository is to provide a structured implementation of the 
 ## Setup
 
 ```bash
-git clone ...
+git clone git@github.com:cookieclicker123/lightrag_knowledge_graph_poc.git
 cd lightrag
 python3 -m venv .venv
 source .venv/bin/activate
